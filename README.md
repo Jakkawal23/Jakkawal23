@@ -1,5 +1,5 @@
-<h1 align="center">nǐ hǎo, I'm Jakkawal Galaxy 👋🪐</h1>
-<h3 align="center">Baby Developer | คิดว่าตัวเองจะเป็น Senior ทุกวัน แต่ความจริงยังหัดเขียน if else อยู่ 😅</h3>
+<h1 align="center">nǐ hǎo, I'm Jakkawal Galaxy</h1>
+<h3 align="center">Baby Developer | 選擇真的比努力重要嗎 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jakkawal23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,13 +7,13 @@
 
 ---
 
-### 🧠 About Me (or what I tell myself I am):
+### 🧠 About Me :
 
 - 🔭 Currently crafting magic at [TaladHub](https://taladhub.com) – a platform that’s more serious than my face on Monday morning.
 - 🌱 Learning how to **not cry** when deployment fails.
 - 🤖 Building AIs to do things I don’t want to do (like read meters).
 - 🎥 I also make YouTube videos at [Jakkawal Galaxy](https://www.youtube.com/c/jakkawalgalaxy), where I pretend to be wise and mysterious.
-- 🧳 Dreaming of building something that makes people say “อห ใครเขียนวะ เท่ชิบ…”
+- 🧳 Dreaming of building something that makes people say “ใครทำระบบนี้มาว่ะ เท่ชิบ…”
 
 ---
 
